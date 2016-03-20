@@ -1,0 +1,14 @@
+/resources
+/www/lib
+# Specifies intentionally untracked files to ignore when using Git
+/plugins
+# http://git-scm.com/docs/gitignore
+
+node_modules/
+platforms/
+plugins/
+/hooks
+/scss
+/.editorconfig
+/config.xml
+/Assignment1.txt
